@@ -997,7 +997,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     const enteredRaw = await openPinGateModal({
       title: "Delete memory",
-      desc: "Enter your DELETE PIN (reverse of your view PIN).",
+      desc: "Enter your DELETE PIN.",
       confirmText: "Delete",
     });
 
